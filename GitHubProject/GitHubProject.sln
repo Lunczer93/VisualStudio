@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "GitHubProject", "GitHubProject\GitHubProject.dtproj", "{E0E7199C-0744-4A5D-8DE3-F67BF77D8184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E7199C-0744-4A5D-8DE3-F67BF77D8184}.Development|Default.ActiveCfg = Development
+		{E0E7199C-0744-4A5D-8DE3-F67BF77D8184}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1578A50D-6DB5-4CCF-9154-971C8FD5B750}
+	EndGlobalSection
+EndGlobal
